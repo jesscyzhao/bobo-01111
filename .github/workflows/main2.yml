@@ -2,8 +2,8 @@ name: Convert MD to HTML using Pandoc
 
 on:
   push:
-    paths:
-      - 'index.md'
+    branches:
+      - master  # or mainjj
 
 jobs:
   convert:
