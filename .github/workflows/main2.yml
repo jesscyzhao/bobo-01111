@@ -3,7 +3,7 @@ name: Convert MD to HTML using Pandoc
 on:
   push:
     branches:
-      - master  # or mainjj
+      - master  
 
 jobs:
   convert:
