@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -20,22 +23,9 @@
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="style.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
-<h1 id="madeupname">MadeUpName</h1>
-<h2 id="phd-student-madeupplace">PhD Student, MadeUpPlace</h2>
-<p>email: <strong>madeUpName@madeUpDomain.edu</strong></p>
-<h2 id="research">Research</h2>
-<ul>
-<li><a href="papers/paper1.pdf">This is a paper hosted locally</a></li>
-<li>This can also be an arxiv link or a link to a journal website
-<ul>
-<li>Syntax is [ square brackets for text ] (parentheses for file or
-location it points to)</li>
-</ul></li>
-</ul>
+<h1 id="bodhi-lal-zhao">Bodhi Lal-Zhao</h1>
+<p>Age -0.111</p>
 </body>
 </html>
