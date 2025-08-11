@@ -15,4 +15,12 @@ We wanted her name to be semantically meaningful and consistent in English, Chin
 
 ## Baby registry
 
-[Amazon baby registry](https://www.amazon.com/baby-reg/apoorva-lal-september-2025-redwoodcity/1EYMR6LQG7FC4?ref_=cm_sw_r_cp_ud_dp_FGYZ2X97XH8GSH6RC3W4)
+### [Amazon baby registry](https://www.amazon.com/baby-reg/apoorva-lal-september-2025-redwoodcity/1EYMR6LQG7FC4?ref_=cm_sw_r_cp_ud_dp_FGYZ2X97XH8GSH6RC3W4)
+
+## Baby shower activities 
+
+### [Book recommendations for Bodhi](https://forms.gle/ZxGh7RWgWyhSN8546)
+
+### [Parenting advices for Chunyi & Apoorva](https://forms.gle/3CA425kr1UFFnfSE8)
+
+### [Predict Bodhi's growth in her first year!](https://forms.gle/rB5bDZaxu3tkmEibA)
