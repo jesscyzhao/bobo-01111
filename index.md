@@ -1,5 +1,9 @@
 # Bodhi Lal-Zhao
 
+<div style="width: 90vw; position: relative; left: 50%; right: 50%; margin-left: -45vw; margin-right: -45vw;">
+<img src= "./bodhi_tree_banner.png" alt="Banner" style="width: 100%; height: auto; display: block; object-fit: cover;">
+</div>
+
 ## Introduction
 
 We wanted her name to be semantically meaningful and consistent in English, Chinese and Nepali, which turns out to be a non-trival task. Apoorva came up with a zero-shot solution: Bodhi, the tree under which the Budhha attained enlightenment, which phonetically translates to 博迪 (boe-dee) in Chinese, meaning extensive enlightment. And Chunyi happily agreed. 
@@ -15,12 +19,12 @@ We wanted her name to be semantically meaningful and consistent in English, Chin
 
 ## Baby registry
 
-### [Amazon baby registry](https://www.amazon.com/baby-reg/apoorva-lal-september-2025-redwoodcity/1EYMR6LQG7FC4?ref_=cm_sw_r_cp_ud_dp_FGYZ2X97XH8GSH6RC3W4)
+[Amazon baby registry](https://www.amazon.com/baby-reg/apoorva-lal-september-2025-redwoodcity/1EYMR6LQG7FC4?ref_=cm_sw_r_cp_ud_dp_FGYZ2X97XH8GSH6RC3W4)
 
 ## Baby shower activities 
 
-### [Book recommendations for Bodhi](https://forms.gle/ZxGh7RWgWyhSN8546)
+[Book recommendations for Bodhi](https://forms.gle/ZxGh7RWgWyhSN8546)
 
-### [Parenting advices for Chunyi & Apoorva](https://forms.gle/3CA425kr1UFFnfSE8)
+[Parenting advices for Chunyi & Apoorva](https://forms.gle/3CA425kr1UFFnfSE8)
 
-### [Predict Bodhi's growth in her first year!](https://forms.gle/rB5bDZaxu3tkmEibA)
+[Predict Bodhi's growth in her first year!](https://forms.gle/rB5bDZaxu3tkmEibA)

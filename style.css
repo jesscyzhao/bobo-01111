@@ -17,7 +17,8 @@ body {
 h1, h2, h3, h4, h5 { font-family: IBM Plex Sans;
                      font-weight: bold;
                      border-bottom: 1px dotted black;
-                     color: #7a5ada; }
+                     color: #1e4a5f; }
+
 h1 {
         font-size: 140%;
 }
@@ -45,4 +46,8 @@ h1.title {
         padding-bottom: 0.2em;
         text-align: left;
         border: none;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+  color: #D4AF37;
 }
